@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi I'm Lester! <br> <br>🔭 I’m currently working on improving my skills on front end web development <br>🌱 I’m currently learning React JS - a javascript library <br><br>  Favorite Qoute: <br><br>  "One must understand that there is more than one path to the top of the mountain" <br>- Miyamoto Musashi<br><br> 
+## Hi I'm Lester! <br> <br>🔭 I’m currently working on improving my skills on web development <br>🌱 I’m currently learning React JS - a javascript library <br><br>  Favorite Qoute: <br><br>  "One must understand that there is more than one path to the top of the mountain" <br>- Miyamoto Musashi<br><br> 
 
 
 ## 🌐 Socials:
